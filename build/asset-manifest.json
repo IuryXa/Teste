@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e6c13ad2.css",
+    "main.js": "/static/js/main.72874089.js",
+    "static/js/453.f465108a.chunk.js": "/static/js/453.f465108a.chunk.js",
+    "static/media/building.png": "/static/media/building.fb884a10dd365d499a5a.png",
+    "static/media/s4.jpg": "/static/media/s4.9e289b670ec13eb19f50.jpg",
+    "static/media/img2.png": "/static/media/img2.d9d2f7e605472e69832e.png",
+    "static/media/s2.jpg": "/static/media/s2.09190db1e98feb3d3ce3.jpg",
+    "static/media/s6.jpg": "/static/media/s6.cf167213649b531fb080.jpg",
+    "static/media/s1.jpg": "/static/media/s1.0994b59cb228a3e13fb6.jpg",
+    "static/media/02.png": "/static/media/02.8d1cef64b8620b6331f5.png",
+    "static/media/08.png": "/static/media/08.b68c4fbcf76c2ed25e59.png",
+    "static/media/06.png": "/static/media/06.f03f98ae990ddd2eea81.png",
+    "static/media/03.png": "/static/media/03.c26c714ea256a42cefe9.png",
+    "static/media/04.png": "/static/media/04.a6c5616068d39b0da771.png",
+    "static/media/01.png": "/static/media/01.c7f01e3f62f94650a635.png",
+    "static/media/05.png": "/static/media/05.487088cbde3f908f6ba6.png",
+    "static/media/07.png": "/static/media/07.d552d727a4b84ca0f29a.png",
+    "static/media/09.png": "/static/media/09.a6753cf4cde708ef2bf3.png",
+    "static/media/s5.jpg": "/static/media/s5.be06c9e4ceb7a6a8b6ca.jpg",
+    "static/media/s3.jpg": "/static/media/s3.6f37e89ec3c87759676f.jpg",
+    "static/media/s7.jpg": "/static/media/s7.f40fe4cab87b461b5a42.jpg",
+    "static/media/BG.png": "/static/media/BG.62abeced5170bc4e8368.png",
+    "static/media/s8.jpg": "/static/media/s8.0babf06d3bc170bca68a.jpg",
+    "static/media/s9.jpg": "/static/media/s9.5e2303bc65c45c86cb93.jpg",
+    "index.html": "/index.html",
+    "main.e6c13ad2.css.map": "/static/css/main.e6c13ad2.css.map",
+    "main.72874089.js.map": "/static/js/main.72874089.js.map",
+    "453.f465108a.chunk.js.map": "/static/js/453.f465108a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.72874089.js"
+  ]
+}
